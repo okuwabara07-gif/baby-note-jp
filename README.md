@@ -1,2 +1,3 @@
 # baby-note-jp
-育児NOTE
+
+Updated: 2026-04-01
