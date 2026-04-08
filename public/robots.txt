@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://baby-note-jp.vercel.app/sitemap.xml
+Sitemap: https://okuwabara07-gif.github.io/baby-note-jp/sitemap.xml
